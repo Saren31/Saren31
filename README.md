@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Veslin
+Hi !👋 My name is Lucas Veslin
 =========================
 
 I'm a 20-year-old developer who mainly works with Java and Python. I also dabble in web development using HTML, CSS, and PHP. I'm proficient in various database languages, including Oracle SQL, NoSQL, and PL/SQL.
