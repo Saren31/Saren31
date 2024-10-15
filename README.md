@@ -1,12 +1,12 @@
 Hi !👋 My name is Lucas Veslin
 =========================
 
-I'm a 20-year-old developer who mainly works with Java and Python. I also dabble in web development using HTML, CSS, and PHP. I'm proficient in various database languages, including Oracle SQL, NoSQL, and PL/SQL.
+I'm a 21-year-old developer who mainly works with Java and Python. I also dabble in web development using HTML, CSS, and PHP. I'm proficient in various database languages, including Oracle SQL, NoSQL, and PL/SQL.
 
 * 🌍 Based in Toulouse
 * ✉️ You can reach me at [lucas.veslin@outlook.fr](mailto:lucas.veslin@outlook.fr)
 * 👉 Or connect with me on Linkedin at [lucas-veslin](www.linkedin.com/in/lucas-veslin)
-* 🚀 Currently, I'm working on [a Notation Website for Paul Sabatier](http://iut-informatique.univ-tlse3.fr)
+* 🚀 Currently, I'm doing a Master MIAGE at Capitole
 * 🌦️ Last year, I completed an internship at Meteo-France 
 * 💼 I'm actively seeking my next internship 
 
