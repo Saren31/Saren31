@@ -5,7 +5,7 @@ I'm a 21-year-old developer who mainly works with Java and Python. I also dabble
 
 * 🌍 Based in Toulouse
 * ✉️ You can reach me at [lucas.veslin@outlook.fr](mailto:lucas.veslin@outlook.fr)
-* 👉 Or connect with me on Linkedin at [lucas-veslin](www.linkedin.com/in/lucas-veslin)
+* 👉 Or connect with me on Linkedin at [lucas-veslin](https://www.linkedin.com/in/lucas-veslin)
 * 🚀 Currently, I'm doing a Master MIAGE at Capitole
 * 🌦️ Last year, I completed an internship at Meteo-France 
 * 💼 I'm actively seeking my next internship 
